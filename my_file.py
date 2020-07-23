@@ -5,4 +5,7 @@ def my_file():
 
 def file_from_mac():
 	print("function from mac")
+	
+def file_from_github():
+	print("yes changes1 from github")
 
