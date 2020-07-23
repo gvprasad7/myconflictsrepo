@@ -10,5 +10,5 @@ def file_from_github():
 	print("yes changes1 from github once again from mac book")
 	
 def file_from_blore_cahnges():
-	print("changes for blore")
+	print("changes for blore for third time changes(latest)")
 
