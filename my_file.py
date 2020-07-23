@@ -10,9 +10,5 @@ def file_from_github():
 	print("yes changes1 from github once again from mac book")
 	
 def file_from_blore_cahnges():
-<<<<<<< HEAD
 	print("changes for blore for third time changes(latest)")
-=======
-	print("changes for blore second time changes")
->>>>>>> 7f53617858744b00eccfdae2530fcf8b692bd851
 
