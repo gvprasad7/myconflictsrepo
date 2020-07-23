@@ -1,7 +1,7 @@
 print("Hello from python: master")
 
 def my_file():
-  print("print from master barcnh git hub")
+  print("print from master barcnh git hub from macbook")
 
 def file_from_mac():
 	print("function from mac")
