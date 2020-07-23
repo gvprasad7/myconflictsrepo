@@ -4,7 +4,7 @@ def my_file():
   print("print from master barcnh git hub changes from github")
 
 def file_from_mac():
-	print("function from mac")
+	print("function from mac for blore branch")
 	
 def file_from_github():
 	print("yes changes1 from github once again from mac book")
